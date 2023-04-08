@@ -1,0 +1,14 @@
+.head-section {
+    max-width: 1280px;
+    height: 50px;
+    background-color: aquamarine;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    align-items: center;
+}
+.head-section a{
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 2rem;
+}
